@@ -206,7 +206,7 @@ const workExperiences = {
         "Analyzed student code submissions to find evidence of cheating",
         "Wrote programming problems for midterm and final exams with other staff members"
       ]
-    },
+    }
   ]
 };
 
@@ -276,7 +276,7 @@ const achievementSection = {
           url: "https://github.com/basilTeam/basil"
         }
       ]
-    },
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
