@@ -263,7 +263,7 @@ const achievementSection = {
     {
       title: "Repl.it Lang Jam Winner",
       subtitle:
-        "Won first place for my work on Basil, a new programming language exploring partial evaluation, context-sensitive parsing, and metaprogramming",
+        "Won first place for my partner and I's work on Basil, a new programming language exploring partial evaluation, context-sensitive parsing, and metaprogramming",
       image: require("./assets/images/replit.png"),
       imageAlt: "Repl.it Logo",
       footerLink: [
@@ -340,8 +340,8 @@ const resumeSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle: "Want to say hi?",
-  number: "+92-0000000000",
-  email_address: "saadpasta70@gmail.com"
+  number: "+1-586-383-4191",
+  email_address: "contact@minch.cc"
 };
 
 // Twitter Section
